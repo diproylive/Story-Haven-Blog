@@ -30,7 +30,7 @@ include '../includes/connect.php';
                         <div class="dropdown-menu bg-transparent border-0">
                             <a href="user_post.php" class="dropdown-item">All Post</a>
                             <a href="category.php" class="dropdown-item active">Add Category</a>
-                            <a href="element.html" class="dropdown-item">Other Elements</a>
+                            <!-- <a href="element.html" class="dropdown-item">Other Elements</a> -->
                         </div>
                     </div>
                     <div class="nav-item dropdown">
